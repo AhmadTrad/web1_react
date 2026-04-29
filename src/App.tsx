@@ -1,7 +1,7 @@
-import MyButton from "./components/my-button/my-button";
+import Login from "./features/auth/login/login";
 
 const App = () => {
-  return <MyButton />;
+  return <Login />;
 };
 
 export default App;
